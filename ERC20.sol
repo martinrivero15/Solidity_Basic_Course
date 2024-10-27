@@ -19,3 +19,5 @@ contract MartinNicolasRivero is ERC20, Ownable, ERC20Permit {
         _mint(to, amount);
     }
 }
+
+// smart contract sepolia arbiscan https://sepolia.arbiscan.io/address/0x4129f5Eb2F5197B276258308D8D45d64f5b8fbAc

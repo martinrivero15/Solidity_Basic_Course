@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.28+commit.7893614a"
+		"version": "0.8.24+commit.e11b9ed9"
 	},
 	"language": "Solidity",
 	"output": {
@@ -796,7 +796,7 @@
 		"compilationTarget": {
 			"ERC20.sol": "MartinNicolasRivero"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "shanghai",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -969,11 +969,11 @@
 			]
 		},
 		"ERC20.sol": {
-			"keccak256": "0x318c7ed35fdf7acb9619f81aa5752d9162f0e4ace7a09ff0e50bc14682f7e95b",
+			"keccak256": "0x4075ffef4a4b023ace8903521be43ccb4513da1976c9de8feb1b5e849161b223",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1d4006fb196733ff1f388d871a867adc8fa2dac23ff0b929059cc13dd0093fc8",
-				"dweb:/ipfs/QmdMiLPeP6oEF4PvcBsToiQo87RJ8Xn1ry7zu7VZC169AG"
+				"bzz-raw://62d97bf3861b4ca36339df23cc5892aa29219f04d1179fd10a6bb742ff81b546",
+				"dweb:/ipfs/QmPWDv9t54rWTMSLeRahChdDkS435v2MjvHUuZo5SwgYTd"
 			]
 		}
 	},
