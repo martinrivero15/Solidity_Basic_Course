@@ -6,7 +6,7 @@
 	"output": {
 		"abi": [],
 		"devdoc": {
-			"details": "Standard math utilities missing in the Solidity language.",
+			"details": "Library that provide common ERC-721 utility functions. See https://eips.ethereum.org/EIPS/eip-721[ERC-721]. _Available since v5.1._",
 			"kind": "dev",
 			"methods": {},
 			"version": 1
@@ -19,7 +19,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ERC721_flattened.sol": "Math"
+			"ERC721_flattened.sol": "ERC721Utils"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},

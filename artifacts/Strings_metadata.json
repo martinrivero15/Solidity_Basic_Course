@@ -43,7 +43,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ERC20_flattened.sol": "Strings"
+			"ERC721_flattened.sol": "Strings"
 		},
 		"evmVersion": "shanghai",
 		"libraries": {},
@@ -57,11 +57,11 @@
 		"remappings": []
 	},
 	"sources": {
-		"ERC20_flattened.sol": {
-			"keccak256": "0x06ccbc562a1b10abe5d5591908b45edbe0501c997ceacf1800ffc96421c07bd7",
+		"ERC721_flattened.sol": {
+			"keccak256": "0xdecd68a880acd8007064706c43ec70930db60594a1af91cec812fe90dd8859b0",
 			"urls": [
-				"bzz-raw://ee0ea326114bc8c797a411c88d711a0387803679b4a47fab465616751d3baeb7",
-				"dweb:/ipfs/QmTw9Ub4QDpNVaVgSZgnTm9rgceNhJFfw9fjqXBeYdpHyk"
+				"bzz-raw://6581690098987cb516d6f14965b1f0be0f1e1d2731dc735a30399b9a9e60e5c4",
+				"dweb:/ipfs/QmSyfpQ577mVw2W78QVDA4GYCUSULKLGGG88JfELSQq1ev"
 			]
 		}
 	},
